@@ -33,8 +33,8 @@ Proyectos en los que trabajo
 
 ¿Dónde encontrarme?
 
-🌐 [Porfolio] (https://enric160493.wixsite.com/enric-domenech)
+🌐 [Porfolio](https://enric160493.wixsite.com/enric-domenech)
     
-💼 [LinkedIn] (https://www.linkedin.com/in/enric-dom%C3%A8nech-aisa-1384941aa/)
+💼 [LinkedIn](https://www.linkedin.com/in/enric-dom%C3%A8nech-aisa-1384941aa/)
 
 ¡Gracias por visitar mi perfil!

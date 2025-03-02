@@ -1,6 +1,6 @@
-**👋 ¡Hola! Soy Enric Domènech
+**👋 ¡Hola! Soy Enric Domènech**
 
-**Full-Stack & Mobile Developer
+**Full-Stack & Mobile Developer**
 
 
 Soy un desarrollador apasionado por la tecnología y la programación, con experiencia en múltiples tecnologías y lenguajes. Me especializo en el desarrollo de aplicaciones multiplataforma y nativas.

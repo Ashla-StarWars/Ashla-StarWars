@@ -5,13 +5,9 @@
 
 Soy un desarrollador apasionado por la tecnología y la programación, con experiencia en múltiples tecnologías y lenguajes. Me especializo en el desarrollo de aplicaciones multiplataforma y nativas.
 
-Tecnologías y herramientas
+Desarrollo aplicaciones escalables y mantenibles aplicando Clean Architecture, asegurando una separación clara de responsabilidades y facilitando la reutilización de código.
 
-📱 Mobile & Frontend
-
-☕ Backend & Database
-
-🎮 Game Development
+Sigo los principios SOLID para escribir código limpio y modular, mejorando la extensibilidad y reduciendo la complejidad en el desarrollo de software.
 
 
 Proyectos en los que trabajo
@@ -22,13 +18,15 @@ Proyectos en los que trabajo
 
 🚀 Optimizaciones y manejo de mapas con Google Maps API.
 
-📂 Integración de bases de datos locales con Room.****
+📂 Integración de bases de datos locales con Room.
+
+🏗️ MySQL, Spring Boot, Hibernate
 
 🎮 Videojuegos en Unity (2D).
 
 🖥️ Flutter & Dart.
 
-🏗️ MySQL, Spring Boot
+
 
 
 ¿Dónde encontrarme?

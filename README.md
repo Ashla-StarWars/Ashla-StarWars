@@ -12,19 +12,19 @@ Sigo los principios SOLID para escribir código limpio y modular, mejorando la e
 
 Proyectos en los que trabajo
 
-📌 Aplicaciones multiplataforma con Kotlin Multiplatform.
+   📌 Aplicaciones multiplataforma con Kotlin Multiplatform.
 
-📱 Apps Android con Jetpack Compose (Koin, Room, Media3, Coil).
+   📱 Apps Android con Jetpack Compose (Koin, Room, Media3, Coil).
 
-🚀 Optimizaciones y manejo de mapas con Google Maps API.
+   🚀 Optimizaciones y manejo de mapas con Google Maps API.
 
-📂 Integración de bases de datos locales con Room.
+   📂 Integración de bases de datos locales con Room.
 
-🏗️ MySQL, Spring Boot, Hibernate
+   🏗️ MySQL, Spring Boot, Hibernate
 
-🎮 Videojuegos en Unity (2D).
+   🎮 Videojuegos en Unity (2D).
 
-🖥️ Flutter & Dart.
+   🖥️ Flutter & Dart.
 
 
 

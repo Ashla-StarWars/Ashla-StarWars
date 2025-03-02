@@ -24,6 +24,8 @@ Sigo los principios SOLID para escribir código limpio y modular, mejorando la e
 
    🖥️ Flutter & Dart.
 
+**Skills:**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 

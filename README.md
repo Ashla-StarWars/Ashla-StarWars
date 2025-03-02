@@ -8,22 +8,11 @@ Soy un desarrollador apasionado por la tecnología y la programación, con exper
 
 🛠 Tecnologías y herramientas
 
-📱 Mobile & Frontend
-
-
-
-
-
-☕ Backend & Database
-
-
-
-
-
-🎮 Game Development
-
-
-
+    📱 Mobile & Frontend
+    
+    ☕ Backend & Database
+    
+    🎮 Game Development
 
 🚀 Proyectos en los que trabajo
 
@@ -41,7 +30,7 @@ Soy un desarrollador apasionado por la tecnología y la programación, con exper
 
     🌐 Mi página web (si tienes)
     
-    🐦 Twitter
+🐦 [Twitter](https://google.com) 
     
     💼 LinkedIn
 

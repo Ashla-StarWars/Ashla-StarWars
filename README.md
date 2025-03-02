@@ -10,7 +10,7 @@ Desarrollo aplicaciones escalables y mantenibles aplicando Clean Architecture, a
 Sigo los principios SOLID para escribir código limpio y modular, mejorando la extensibilidad y reduciendo la complejidad en el desarrollo de software.
 
 
-Proyectos en los que trabajo
+**Proyectos en los que trabajo**
 
    📌 Aplicaciones multiplataforma con Kotlin Multiplatform.
 

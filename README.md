@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 ¡Hola! Soy Enric Domènech
 
-<!--
-**Ashla-StarWars/Ashla-StarWars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mí
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por la tecnología y la programación. Trabajo con múltiples tecnologías y lenguajes, incluyendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗 Kotlin Multiplatform (KMP)
+
+📱 Jetpack Compose & Compose Multiplatform
+
+🐦 Flutter & Dart
+
+☕ Java
+
+🎮 Unity & C#
+
+🌍 Google Maps API
+
+🗄 Room Database en Kotlin Multiplatform
+
+🖼 Coil para carga de imágenes
+
+🛠 Proyectos en los que trabajo
+
+📌 Aplicaciones multiplataforma con Kotlin Multiplatform.
+
+📱 Apps Android con Jetpack Compose.
+
+🎮 Videojuegos en Unity (2D).
+
+🚀 Optimizaciones y manejo de mapas con Google Maps API.
+
+📂 Integración de bases de datos locales con Room.
+
+📫 ¿Dónde encontrarme?
+
+🌐 Mi página web (si tienes)
+
+🐦 Twitter
+
+💼 LinkedIn

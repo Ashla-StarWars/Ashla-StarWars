@@ -25,20 +25,32 @@ Sigo los principios SOLID para escribir código limpio y modular, mejorando la e
    🖥️ Flutter & Dart.
 
 **Skills:**</br>
-📱 Mobile & Frontend</br>
+
+📱 **Mobile & Frontend**</br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)</br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br> 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)</br>
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Coil](https://img.shields.io/badge/Coil-4A90E2?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
-☕ Backend & Database</br>
+☕ **Backend & Database**</br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)</br>
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)</br>
+![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
-🎮 Game Development</br>
+🎮 **Game Development**</br>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)</br>
+
+🛠️ **Dev Tools & Testing**</br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)</br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)</br>
+![CI/CD](https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)</br>
+![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=pytest&logoColor=white&labelColor=101010)</br>
 
 ¿Dónde encontrarme?
 
